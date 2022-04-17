@@ -1,0 +1,10 @@
+﻿  CNeuralNetwork.cpp
+d:\just\neuralnetworks_real\neuralnetworks\cneuralnetwork.cpp(124): warning C4018: '<': signed/unsigned mismatch
+d:\just\neuralnetworks_real\neuralnetworks\cneuralnetwork.cpp(215): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\just\neuralnetworks_real\neuralnetworks\cneuralnetwork.cpp(427): warning C4018: '<': signed/unsigned mismatch
+d:\just\neuralnetworks_real\neuralnetworks\cneuralnetwork.cpp(547): warning C4018: '<': signed/unsigned mismatch
+d:\just\neuralnetworks_real\neuralnetworks\cneuralnetwork.cpp(564): warning C4018: '<': signed/unsigned mismatch
+d:\just\neuralnetworks_real\neuralnetworks\cneuralnetwork.cpp(572): warning C4018: '<': signed/unsigned mismatch
+d:\just\neuralnetworks_real\neuralnetworks\cneuralnetwork.cpp(660): warning C4018: '<': signed/unsigned mismatch
+d:\just\neuralnetworks_real\neuralnetworks\cneuralnetwork.cpp(680): warning C4018: '<': signed/unsigned mismatch
+  NeuralNetworks.vcxproj -> D:\just\NeuralNetworks_real\Debug\NeuralNetworks.exe
